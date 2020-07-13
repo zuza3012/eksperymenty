@@ -1,0 +1,3 @@
+/home/zuzanna/Documents/openGL/kurs/eksperymenty/build/CMakeFiles/rebuild_cache.dir
+/home/zuzanna/Documents/openGL/kurs/eksperymenty/build/CMakeFiles/eksperymenty.dir
+/home/zuzanna/Documents/openGL/kurs/eksperymenty/build/CMakeFiles/edit_cache.dir

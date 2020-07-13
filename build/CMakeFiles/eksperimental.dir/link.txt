@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/eksperimental.dir/main.cpp.o  -o eksperimental -lglfw -lGL -lGLU -lGLEW 
